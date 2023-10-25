@@ -4,7 +4,8 @@ JPacman-Framework
 About
 -----
 
-Pacman-style game for design patterns teaching
+Pacman-style game for design patterns teaching.
+
 This project, originally developed for software testing teaching, has been adapted to provide a hands-on experience in learning design patterns. 
 
 
